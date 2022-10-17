@@ -1,0 +1,8 @@
+com\bezkoder\spring\files\upload\db\message\ResponseFile.class
+com\bezkoder\spring\files\upload\db\exception\FileUploadExceptionAdvice.class
+com\bezkoder\spring\files\upload\db\model\FileDB.class
+com\bezkoder\spring\files\upload\db\repository\FileDBRepository.class
+com\bezkoder\spring\files\upload\db\controller\FileController.class
+com\bezkoder\spring\files\upload\db\SpringBootUploadFilesDatabaseApplication.class
+com\bezkoder\spring\files\upload\db\message\ResponseMessage.class
+com\bezkoder\spring\files\upload\db\service\FileStorageService.class

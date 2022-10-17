@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-upload-files-database
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pc
+Implementation-Vendor-Id: com.bezkoder
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot
+ -upload-files-database
+Created-By: Maven Integration for Eclipse
+
